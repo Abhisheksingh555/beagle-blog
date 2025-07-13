@@ -8,7 +8,7 @@ A simple, elegant static website that introduces the **Beagle** dog breed. Built
 
 ## 📂 Project Structure
 
-👉 ![Project Structure](https://pouch.jumpshare.com/preview/LstWJmaivwS703raNvMEUZRmT-B6XwwqURGRawr6-hg9ioqBNOXGTyCA8ppDH-W_IaYC8NGwV9PA5gJ54PiIQRkcb0yOVXnjjn5LZqxCbcs)
+![Project Structure](https://pouch.jumpshare.com/preview/LstWJmaivwS703raNvMEUZRmT-B6XwwqURGRawr6-hg9ioqBNOXGTyCA8ppDH-W_IaYC8NGwV9PA5gJ54PiIQRkcb0yOVXnjjn5LZqxCbcs)
 
 ## 📸 Features
 
