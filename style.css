@@ -8,63 +8,75 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
-  background-color: #fdfdfd;
-  color: #333;
+  background-color: #f9f9f9;
+  color: #2b2b2b;
   padding: 0 16px;
 }
 
+/* Layout */
 .container {
   max-width: 800px;
-  margin: auto;
-  padding: 20px 0;
+  margin: 40px auto;
+  padding: 20px;
 }
 
+/* Headings */
 .heading {
-  font-size: 28px;
-  margin-bottom: 10px;
-  text-decoration: underline;
-  color: #2b2b2b;
+  font-size: 32px;
+  margin-bottom: 12px;
+  color: #1a1a1a;
+  border-bottom: 2px solid #0077cc;
+  display: inline-block;
 }
 
+/* Sections */
 .intro-section,
 .dog-about-section,
 .trivia-section {
-  display: flex;
-  flex-direction: column;
+  background-color: #ffffff;
+  padding: 24px;
   margin-bottom: 30px;
-  padding: 16px;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  background-color: #fafafa;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
+/* Paragraph */
 .description {
-  margin: 12px 0;
+  margin: 16px 0;
+  font-size: 16px;
+  line-height: 1.8;
 }
 
-a {
+/* Links */
+.link {
   color: #0077cc;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 600;
+  display: inline-block;
+  margin-top: 10px;
 }
 
-a:hover {
+.link:hover {
   text-decoration: underline;
 }
 
+/* Image */
 .beagle-img {
-  margin: 12px 0;
   width: 100%;
-  max-width: 500px;
-  height: auto;
-  border-radius: 6px;
+  max-width: 600px;
+  margin: 16px 0;
+  border-radius: 10px;
+  border: 1px solid #ccc;
 }
 
+/* List */
 ol {
-  margin-top: 10px;
+  margin-top: 16px;
   padding-left: 20px;
+  font-size: 16px;
 }
 
 ol li {
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
