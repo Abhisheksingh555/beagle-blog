@@ -8,12 +8,7 @@ A simple, elegant static website that introduces the **Beagle** dog breed. Built
 
 ## 📂 Project Structure
 
-beagle-blog/
-│
-├── index.html # Main HTML file
-├── style.css # CSS styling
-└── README.md # Project description
-
+👉 ![Project Structure](https://ibb.co/YBsnWhXd)
 
 ## 📸 Features
 
